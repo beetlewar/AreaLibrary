@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AreaCalculator
 {
-    public class Class1
+    public static class Triangle
     {
     }
 }
